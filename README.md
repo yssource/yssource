@@ -9,7 +9,7 @@
 
 ---
 
-[![Top Langs](<https://github-readme-stats.vercel.app/api/top-langs/?username=yssource&hide=javascript,css,html,cmake,qmake,ruby&show_icons=true&theme=dracula&cache_seconds=3600>)](<https://github.com/yssource/github-readme-stats>)
+[![Top Langs](<https://github-readme-stats.vercel.app/api/top-langs/?username=yssource&hide=javascript,css,html,ruby&show_icons=true&theme=dracula&cache_seconds=3600>)](<https://github.com/yssource/github-readme-stats>)
 
 ---
 
